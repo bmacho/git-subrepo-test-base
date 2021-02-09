@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/bmacho/git-subrepo-test-sub1.git
 	branch = main
-	commit = 4dbcbc4c9e0315e5dd008740b2b8a04a471356db
-	parent = b98efd59de2295fbbbc1f8c3631af799abc1ee47
+	commit = ef1a4270ba19361f296e7045ac3211fd11284eb8
+	parent = 8ab61ac11b573265d766c25c2d112213617c922f
 	method = merge
 	cmdver = 0.4.3
